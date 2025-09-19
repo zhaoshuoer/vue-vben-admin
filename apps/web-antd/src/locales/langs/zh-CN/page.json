@@ -13,6 +13,7 @@
   },
   "home": {
     "title": "首页测试",
-    "home": "home"
+    "home": "home",
+    "test": "测试"
   }
 }
